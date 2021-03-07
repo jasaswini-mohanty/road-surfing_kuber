@@ -8,4 +8,4 @@ score: depends on longevity of the player on the screen
 
 pics required: animation of player
     coin image,power image,obstacles image
-    https://kuberapaul.github.io/my-game/
+https://jasaswini-mohanty.github.io/road-surfing_kuber/
